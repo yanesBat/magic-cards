@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/card_detail_fragment">
+    <fragment
+        android:id="@+id/card_detail_fragment"
+        android:name="com.ybatista.magicthegathering.ui.view.CardDetailFragment"
+        android:label="{title}"
+        tools:layout="@layout/fragment_card_detail">
+    </fragment>
+</navigation>

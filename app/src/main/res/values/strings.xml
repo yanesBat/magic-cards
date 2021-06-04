@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Magic: The Gathering</string>
+    <string name="title_item_detail">Item Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="date">3/06/2021</string>
+    <string name="email">ybatista@ec.krugercorp.com</string>
+    <string name="name">Yaneslearser Batista Barrio</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="results_could_not_be_loaded">Results could not be loaded</string>
+    <string name="card_thumbnail">card thumbnail</string>
+    <string name="card_image">card image</string>
+    <string name="select_card">Select a card</string>
+</resources>
